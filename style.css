@@ -1,0 +1,12 @@
+.custome_class {
+	background-color: orange;
+	opacity: .9;
+	border : 4px solid darkslategray;
+}
+
+p {
+	text-align: center;
+	color: brown;
+	font-size: 30px;
+
+}
